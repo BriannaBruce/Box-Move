@@ -1,0 +1,15 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.box {
+  background: #7FFFD4;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+}
+
